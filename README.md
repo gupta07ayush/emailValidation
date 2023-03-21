@@ -1,9 +1,9 @@
-<h1 align="center"  <style>
-         h1{
-            color:green;
-            
-            }
-Email Validation in python using strings methods </h1>
+<h1 align="center" style="color:green;">
+         
+-Email Validation in python using strings methods 
+</h1>
+
+
 
 <p>An email address should have a @ symbol in it, with all letters being lowercase. You can check if the email address is correct or not. Our trainer will give an example of how to check it before making a program.
 
